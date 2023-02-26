@@ -1,4 +1,6 @@
 negyedik fajl.
 Masodik sor.
 Harmadik sor.
-Negyedik sor.
+Negyedik sor
+------------------
+-------------------------------------
